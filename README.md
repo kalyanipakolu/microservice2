@@ -1,10 +1,10 @@
 # microservice2
 
-<<<<<<< HEAD
+ HEAD
 This line is from the feature branch.
-=======
+
 This is line from a main branch.
->>>>>>> main
+ main
 
 Adding a new text.
 
