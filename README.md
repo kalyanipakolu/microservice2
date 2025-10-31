@@ -1,8 +1,6 @@
 # microservice2
 
-This is my new file
+This is line from a main branch.
 
 Adding a new text.
-
-
 
